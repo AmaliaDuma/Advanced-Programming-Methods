@@ -1,0 +1,161 @@
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;(v=2;print(v)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+(v=2;print(v))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+(v=2;print(v))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=2;print(v))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=2;print(v))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=2
+print(v)
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=2
+print(v)
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+
+*****SymbolTable*****
+v -> 2
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+
+*****SymbolTable*****
+v -> 2
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+v -> 2
+
+*****OutputList*****
+2
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+

@@ -1,0 +1,1258 @@
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((String varf;varf=test.in);(openRFile(varf);int varc));((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((String varf;varf=test.in);(openRFile(varf);int varc))
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((String varf;varf=test.in);(openRFile(varf);int varc))
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(String varf;varf=test.in)
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(String varf;varf=test.in)
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+String varf
+varf=test.in
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+String varf
+varf=test.in
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+varf=test.in
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> 
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+varf=test.in
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> 
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+openRFile(varf)
+int varc
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+openRFile(varf)
+int varc
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int varc
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int varc
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(readFile(varf, varc);print(varc))
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(readFile(varf, varc);print(varc))
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+readFile(varf, varc)
+print(varc)
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+readFile(varf, varc)
+print(varc)
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(varc)
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(varc)
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(readFile(varf, varc);print(varc))
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(readFile(varf, varc);print(varc))
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+readFile(varf, varc)
+print(varc)
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+readFile(varf, varc)
+print(varc)
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(varc)
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 50
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(varc)
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 50
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 50
+
+*****OutputList*****
+15
+50
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 50
+
+*****OutputList*****
+15
+50
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@732711dc
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 50
+
+*****OutputList*****
+15
+50
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((String varf;varf=test.in);(openRFile(varf);int varc));((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((String varf;varf=test.in);(openRFile(varf);int varc))
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((String varf;varf=test.in);(openRFile(varf);int varc))
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(String varf;varf=test.in)
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(String varf;varf=test.in)
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+String varf
+varf=test.in
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+String varf
+varf=test.in
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+varf=test.in
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> 
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+varf=test.in
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> 
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(openRFile(varf);int varc)
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+openRFile(varf)
+int varc
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+openRFile(varf)
+int varc
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int varc
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int varc
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((readFile(varf, varc);print(varc));((readFile(varf, varc);print(varc));closeRFile(varf)))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(readFile(varf, varc);print(varc))
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(readFile(varf, varc);print(varc))
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+readFile(varf, varc)
+print(varc)
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+readFile(varf, varc)
+print(varc)
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(varc)
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(varc)
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((readFile(varf, varc);print(varc));closeRFile(varf))
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(readFile(varf, varc);print(varc))
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(readFile(varf, varc);print(varc))
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+readFile(varf, varc)
+print(varc)
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+readFile(varf, varc)
+print(varc)
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 15
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(varc)
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 50
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(varc)
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 50
+
+*****OutputList*****
+15
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 50
+
+*****OutputList*****
+15
+50
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+closeRFile(varf)
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 50
+
+*****OutputList*****
+15
+50
+
+*****FileTable*****
+test.in -> java.io.BufferedReader@75130f36
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+varf -> test.in
+varc -> 50
+
+*****OutputList*****
+15
+50
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+

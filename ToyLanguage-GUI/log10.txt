@@ -1,0 +1,9379 @@
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((int v;Ref(int) a);(v=10;new(a,22)));(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a))))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((int v;Ref(int) a);(v=10;new(a,22)));(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a))))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((int v;Ref(int) a);(v=10;new(a,22)));(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a))))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((int v;Ref(int) a);(v=10;new(a,22)));(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a))))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((int v;Ref(int) a);(v=10;new(a,22)));(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a))))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((int v;Ref(int) a);(v=10;new(a,22)));(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a))))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((int v;Ref(int) a);(v=10;new(a,22)));(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a))))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((int v;Ref(int) a);(v=10;new(a,22)));(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a))))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((int v;Ref(int) a);(v=10;new(a,22)));(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a))))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((int v;Ref(int) a);(v=10;new(a,22)));(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a))))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 2 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((int v;Ref(int) a);(v=10;new(a,22)));(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a))))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((int v;Ref(int) a);(v=10;new(a,22)))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(int v;Ref(int) a)
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Ref(int) a
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(v=10;new(a,22))
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=10
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+new(a,22)
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (0, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(fork(((wH(a,30);v=32);(print(v);print(rH(a)))));(print(v);(Nop;print(rH(a)))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+fork(((wH(a,30);v=32);(print(v);print(rH(a)))))
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(print(v);(Nop;print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+((wH(a,30);v=32);(print(v);print(rH(a))))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+(wH(a,30);v=32)
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(Nop;print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+wH(a,30)
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 22
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+Nop
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+v=32
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+(print(v);print(rH(a)))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 10
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+print(v)
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+print(rH(a))
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+
+ProgramID: --------- 3 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> (1, int)
+v -> 32
+
+*****OutputList*****
+10
+30
+32
+30
+
+*****FileTable*****
+
+*****HeapTable*****
+1 -> 30
+
+------------------------------------------------------
+
+

@@ -1,0 +1,346 @@
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(((bool a;int v);a=true);(IF(a) THEN (v=2) ELSE (v=3);print(v)))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((bool a;int v);a=true)
+(IF(a) THEN (v=2) ELSE (v=3);print(v))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+((bool a;int v);a=true)
+(IF(a) THEN (v=2) ELSE (v=3);print(v))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(bool a;int v)
+a=true
+(IF(a) THEN (v=2) ELSE (v=3);print(v))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(bool a;int v)
+a=true
+(IF(a) THEN (v=2) ELSE (v=3);print(v))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+bool a
+int v
+a=true
+(IF(a) THEN (v=2) ELSE (v=3);print(v))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+bool a
+int v
+a=true
+(IF(a) THEN (v=2) ELSE (v=3);print(v))
+
+*****SymbolTable*****
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+a=true
+(IF(a) THEN (v=2) ELSE (v=3);print(v))
+
+*****SymbolTable*****
+a -> false
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+int v
+a=true
+(IF(a) THEN (v=2) ELSE (v=3);print(v))
+
+*****SymbolTable*****
+a -> false
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+a=true
+(IF(a) THEN (v=2) ELSE (v=3);print(v))
+
+*****SymbolTable*****
+a -> false
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+a=true
+(IF(a) THEN (v=2) ELSE (v=3);print(v))
+
+*****SymbolTable*****
+a -> false
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(IF(a) THEN (v=2) ELSE (v=3);print(v))
+
+*****SymbolTable*****
+a -> true
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+(IF(a) THEN (v=2) ELSE (v=3);print(v))
+
+*****SymbolTable*****
+a -> true
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+IF(a) THEN (v=2) ELSE (v=3)
+print(v)
+
+*****SymbolTable*****
+a -> true
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+IF(a) THEN (v=2) ELSE (v=3)
+print(v)
+
+*****SymbolTable*****
+a -> true
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=2
+print(v)
+
+*****SymbolTable*****
+a -> true
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+v=2
+print(v)
+
+*****SymbolTable*****
+a -> true
+v -> 0
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+
+*****SymbolTable*****
+a -> true
+v -> 2
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+print(v)
+
+*****SymbolTable*****
+a -> true
+v -> 2
+
+*****OutputList*****
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
+ProgramID: --------- 1 ---------
+*****ExecutionStack*****
+
+*****SymbolTable*****
+a -> true
+v -> 2
+
+*****OutputList*****
+2
+
+*****FileTable*****
+
+*****HeapTable*****
+
+------------------------------------------------------
+
+
